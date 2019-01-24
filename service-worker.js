@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/3dwebsite/docs/precache-manifest.afd25b59741a7105650d71d35a0bd67e.js"
+  "/3dwp/precache-manifest.3d504648d635b1df1f2123dd02bde54e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "3dwebsite"});
